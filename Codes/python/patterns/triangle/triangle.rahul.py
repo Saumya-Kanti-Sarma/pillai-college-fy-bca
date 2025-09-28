@@ -6,12 +6,12 @@ for i in range(1, rows+1):
 		print("*", end=" ")
 	print()
 
-  '''output: 
+'''output: 
   *
   **
   ***
   ****
-  '''
+'''
 
 #code to print the star pattern using 'for' loop(right side)
 rows = int(input("Enter No of rows to print star triangle(Right): "))
