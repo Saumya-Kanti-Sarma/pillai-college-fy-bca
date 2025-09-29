@@ -16,7 +16,7 @@ for i in range(5):
     ****
 """
 for i in range(5):
-  s = 4 - 1
+  s = 4 - i
   print(f"{" "*s}{"*"*i}")
 
 """
@@ -27,5 +27,5 @@ for i in range(5):
     * * * *
 """
 for i in range(5):
-  s = 4 - 1
+  s = 4 - i
   print(f"{" "*s}{" *"*i}")
