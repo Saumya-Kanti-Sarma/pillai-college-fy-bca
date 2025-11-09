@@ -1,4 +1,5 @@
 """
+PRACTICAL: 06
 Set Operations 
 Perform operations on two sets of student names. 
 ●  Create sets for two classes. 
